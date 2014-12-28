@@ -1,4 +1,4 @@
-vthallam.github.io
+Venkatesh Thallam
 ==================
 
 Personal Web page to showcase the projects.
