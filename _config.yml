@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Venkatesh Thallam
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: venkatesh@jobsplane.com
+description: "I write about things related to technology, entrepreneurship and companies in general!"
 baseurl: ""
 url: "http://vthallam.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: vthallam
+github_username:  venkateshthallam
+facebook_username:  vthallam
 
 # Build settings
 markdown: kramdown
