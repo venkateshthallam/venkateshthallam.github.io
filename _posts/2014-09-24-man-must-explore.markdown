@@ -1,12 +1,3 @@
----
-layout: post
-title: "Hello World!"
-subtitle: Problems look mighty small from 150 miles up
-date: {}
-author: Start Bootstrap
-"header-img": "img/post-bg-06.jpg"
-published: true
----
 
 <p>
 I live in a programmatic world and here every thing starts with a "Hello, World!".
