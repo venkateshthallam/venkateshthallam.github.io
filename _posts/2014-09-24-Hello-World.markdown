@@ -1,7 +1,10 @@
-
 ---
-title: Hello, World!
----
+layout:     post
+title:      "Hello, World!"
+subtitle:   "First blog post!"
+date:       2014-06-10 12:00:00
+author:     "Venkatesh"
+header-im
 <p>
 I live in a programmatic world and here every thing starts with a "Hello, World!".
 
