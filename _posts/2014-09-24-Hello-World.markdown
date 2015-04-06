@@ -4,7 +4,8 @@ title:      "Hello, World!"
 subtitle:   "First blog post!"
 date:       2014-06-10 12:00:00
 author:     "Venkatesh"
-header-im
+header-img: "img/post-bg-01.jpg"
+---
 <p>
 I live in a programmatic world and here every thing starts with a "Hello, World!".
 
