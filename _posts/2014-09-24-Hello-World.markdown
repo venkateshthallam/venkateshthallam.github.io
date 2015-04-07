@@ -9,10 +9,10 @@ header-img: "img/post-bg-01.jpg"
 
 I live in a programmatic world and here every thing starts with a "Hello, World!".
 
-I have been thinking to blog regulalrly ever since i knew of internet, but then it took 10 years for me to start with this post.
+I have been thinking to blog regulalrly ever since i knew of the internet, but then it took 8 years for me to start with this post.
 
-Technology, Entrepreneurship and how they affect life in general is something i am passionate about and will be reflected in upcoming blog posts.
+Technology, Entrepreneurship and how they affect life in general is something i am passionate about and will be reflected in the upcoming blog posts.
 
-Happy that i started writing,i will call it a day and come back again with a new post.
+Happy that i started writing,i will call it a day and come back again with a new post. :)
 
 
