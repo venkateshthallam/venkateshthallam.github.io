@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello, World!"
 subtitle:   "First blog post!"
-date:       2014-06-10 12:00:00
+date:       2015-04-06 10:00:00
 author:     "Venkatesh"
 header-img: "img/post-bg-01.jpg"
 ---
